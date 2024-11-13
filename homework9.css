@@ -1,0 +1,192 @@
+.red-input:focus {
+    color: red;
+    margin-top: 10px;
+    height: 40px;
+    margin-left: 47%;
+    font-size: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+   
+}
+
+.red-input {
+    margin-top: 10px;
+    height: 40px;
+    margin-left: 47%;
+    font-size: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    
+}
+
+
+
+
+#button {
+    background-color: #ffe5d9;
+    color: #f28482;
+    border-radius: 5px ;
+    border: none;
+    margin-top: 10px;
+    width: 110px;
+    height: 40px;
+    margin-left: 47%;
+}
+
+#button:hover {
+background-color: #ff99c8;
+color: #fcf6bd;
+border: none;
+margin-top: 10px;
+width: 110px;
+height: 40px;
+margin-left: 47%;
+
+
+
+    
+}
+
+body {
+    background-color: #fffcf2;
+}
+
+
+h1::first-letter {
+    font-size: 35px;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    text-align: center;
+    
+}
+h1 {
+    text-align: center;
+    color: #fcf6bd;
+    
+}
+h1:focus {
+    color: #fffcf2;
+}
+
+li:first-child {
+    color: #eaac8b;
+    font-size: 20px;
+    text-align: center;
+}
+
+li {
+    color: #e56b6f;
+    font-size: 20px;
+    text-align: center;
+}
+
+li:last-child {
+    color: #ff99c8;
+    text-align: center;
+}
+
+ul{
+    text-align: center;
+}
+
+.name {
+    background-color: #b56576;
+
+    border-radius: 50px;
+    
+}
+
+
+.border {
+    border: solid #b56576 5px;
+    border-radius: 50px;
+}
+
+
+.header {
+    background-color: #b56576;
+
+    border-radius: 50px;
+    margin-top: 8%;
+}
+
+.header {
+    background-color: #da627d;
+    color: #f9dbbd;
+}
+
+
+
+.main {
+
+    margin-top: 5%;
+    
+
+}
+ 
+.main::first-line {
+    color: #f28482;
+}
+
+
+.top {
+        
+border: #f9dbbd solid 5px;
+border-radius: 10px;
+background-color: #fcf6bd;
+font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+text-align: center;
+letter-spacing: 1px;
+color: #f28482;
+
+}
+
+a {
+    text-decoration: none;
+    color: #b56576
+
+}
+
+
+a:hover {
+    color: #ff99c8;
+    background-color: aliceblue;
+}
+
+a:active {
+    background-color: red;
+}
+
+.comedy {
+
+    border: #f9dbbd solid 5px;
+    border-radius: 10px;
+    background-color: #fcf6bd;
+    margin-top: 15px;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+
+
+
+.drama {
+
+    border: #f9dbbd solid 5px;
+    border-radius: 10px;
+    background-color: #fcf6bd;
+    margin-top: 15px;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    text-align: center;
+    letter-spacing: 1px;
+    
+}
+
+
+.drama:last-child {
+    font-size: larger;
+}
+
+.drama:focus {
+    color: red;
+}
+
+
+
+
